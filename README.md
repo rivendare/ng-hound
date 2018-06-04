@@ -1,5 +1,6 @@
 # note:
 - this is [this repo](https://github.com/preboot/angularjs-webpack) with the addition of sass-loader / node-sass
+- for testing integration with [Hound](https://houndci.com/)
 
 ## angularjs-webpack
 
