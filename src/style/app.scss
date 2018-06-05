@@ -31,3 +31,5 @@ footer {
   // where's my leading zero?
   font-size: .75em; // also this is bad...
 }
+
+#wow-bad { -webkit-border-before: 0; }
