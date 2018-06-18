@@ -38,6 +38,10 @@ footer {
 
   &.nested {
     padding: 25px;
+
+    &.depth-test {
+      color: #333333;
+    }
   }
 }
 
