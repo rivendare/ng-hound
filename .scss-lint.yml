@@ -1,3 +1,4 @@
 linters:
   NestingDepth:
     max_depth: 1
+    ignore_parent_selectors: true
