@@ -37,7 +37,7 @@ footer {
   margin: 5px;
 
 
-  .nested {
+  &.nested {
     padding: 25px;
     
     &.depth-test {
