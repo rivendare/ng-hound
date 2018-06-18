@@ -33,3 +33,14 @@ footer {
 }
 
 #wow-bad { -webkit-border-before: 0; }
+.parent {
+  margin: 5px;
+
+  &.nested {
+    padding: 25px;
+  }
+}
+
+.color-test {
+  color: #dddddd;
+}
