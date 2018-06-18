@@ -36,11 +36,24 @@ footer {
 .parent {
   margin: 5px;
 
+  
   &.nested {
     padding: 25px;
-
+    
     &.depth-test {
       color: #333333;
+    }
+  }
+
+  .test-nested {
+    color: blue;
+
+    .and-another-one {
+      font-size: 2em;
+    }
+
+    &.and-me-question {
+      margin: 2px;
     }
   }
 }
