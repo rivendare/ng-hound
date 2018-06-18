@@ -26,3 +26,15 @@ footer {
   background: #fff;
   color: #0f0;
 }
+
+.parent {
+  margin: 5px;
+
+  &.nested {
+    padding: 25px;
+  }
+}
+
+.color-test {
+  color: #dddddd;
+}
