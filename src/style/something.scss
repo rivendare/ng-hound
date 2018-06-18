@@ -1,0 +1,11 @@
+.why-the-fuck {
+  padding: 2px;
+
+  &.is-this-allowed {
+    margin: .2em;
+  }
+
+  .but-not-this {
+    color: red;
+  }
+}
